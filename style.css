@@ -1,0 +1,37 @@
+#stopwatch {
+    margin: 10% auto auto auto;
+    width: 25%;
+    border: 3px solid black;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: xx-large;
+    color: white;
+    background-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#flags {
+    text-align: center;
+    margin: auto;
+    width: 25%;
+}
+
+.flag {
+    margin: 20px;
+    font-size:x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button {
+    background-color: #fff; /* Green */
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 10px;
+  }
